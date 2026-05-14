@@ -1,23 +1,76 @@
-# 👋 Hello, I'm Mohamed!
+<div align="center">
 
-## 🚀 About Me
-I'm a **brand strategist, graphic designer, and web designer** with over two years of experience. I specialize in creating **unique visual identities, user-friendly websites, and strategic branding solutions.**
+# Mohamed Mendour
 
-## 🎨 Skills & Expertise
--  **Graphic & UI Design**: *Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)*
--  **Web Design & Development**: *HTML, CSS, JavaScript, WordPress, Webflow*
--  **Brand Strategy & Marketing**: *Logo design, social media branding, SEO, SMA*
--  **AI Integration**: *Automating workflows, chatbot implementation*
+### Brand Strategist · Graphic Designer · Web Designer
 
-## 💼 My Work
--  Founder of **MedStudio** – *a creative design studio helping businesses grow*
--  Worked on **ALFANNE** – *an educational brand for children's books*
--  Developed multiple **branding projects** for startups and businesses
+*Crafting visual identities and digital experiences that make businesses unforgettable.*
 
-## 📫 Connect with Me
-🔗 **Let's collaborate and create something amazing!** 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhamedmendour/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/medcre8tive/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamadmandor0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6E40C9?style=flat-square)](/)
 
-[![🌍 Portfolio](https://img.shields.io/badge/🌍%20Portfolio-Coming%20Soon-blue?style=for-the-badge)](#)
-[![🔗 LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/mhamedmendour/)
-[![🖼️ Instagram](https://img.shields.io/badge/🖼️%20Instagram-Follow%20Me-pink?style=for-the-badge)](https://www.instagram.com/medcre8tive/)
-[![📧 Email](https://img.shields.io/badge/📧%20Email-Contact%20Me-green?style=for-the-badge)](mailto:mohamadmandor0@gmail.com)
+</div>
+
+---
+
+## About Me
+
+I'm a creative with 2+ years of experience at the intersection of design and strategy. I help startups and businesses go from *idea* to *identity* — building brands that look great and communicate clearly.
+
+- 🏢 Founder of **[MedStudio](/)** — a creative studio for growing brands
+- 📚 Brand designer for **ALFANNE** — an educational children's book brand
+- 🎯 Focused on brand consistency, UI quality, and measurable business impact
+
+---
+
+## Skills
+
+**Design & Visual**
+`Adobe Photoshop` `Illustrator` `XD` `After Effects` `Figma` `Logo Design` `UI Design`
+
+**Web & Development**
+`HTML` `CSS` `JavaScript` `WordPress` `Webflow`
+
+**Strategy & Growth**
+`Brand Strategy` `Social Media Branding` `SEO` `Content Marketing`
+
+**Emerging Tech**
+`AI Workflow Automation` `Chatbot Implementation`
+
+---
+
+## Featured Projects
+
+| Project | Description | Role |
+|---|---|---|
+| **MedStudio** | Creative design studio helping businesses grow through visual identity | Founder & Lead Designer |
+| **ALFANNE** | Educational brand for children's books — full visual identity system | Brand Designer |
+| **Startup Branding** | Various branding projects for early-stage companies | Brand Strategist |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhamedmendour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamedmendour&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Let's Work Together
+
+Whether you're launching a brand, redesigning your website, or need a creative partner for your next project — I'd love to connect.
+
+> 💬 **DM me on [LinkedIn](https://www.linkedin.com/in/mhamedmendour/)** or drop an **[email](mailto:mohamadmandor0@gmail.com)**
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mhamedmendour&color=6E40C9&style=flat-square" alt="Profile views" />
+</div>
